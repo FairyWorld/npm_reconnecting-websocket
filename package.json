@@ -1,6 +1,6 @@
 {
-    "name": "@reedsy/reconnecting-websocket",
-    "version": "4.4.0-reedsy-1.0.1",
+    "name": "reconnecting-websocket-fixed",
+    "version": "4.4.0-fixed-1.0.1",
     "description": "Reconnecting WebSocket",
     "main": "./dist/reconnecting-websocket-cjs.js",
     "module": "./dist/reconnecting-websocket-mjs.js",
@@ -57,15 +57,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/reedsy/reconnecting-websocket.git"
+        "url": "git+https://github.com/FairyWorld/npm_reconnecting-websocket.git"
     },
     "bugs": {
-        "url": "https://github.com/reedsy/reconnecting-websocket/issues"
+        "url": "https://github.com/FairyWorld/npm_reconnecting-websocket/issues"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org"
     },
-    "homepage": "https://github.com/reedsy/reconnecting-websocket#readme",
+    "homepage": "https://github.com/FairyWorld/npm_reconnecting-websocket#readme",
     "lint-staged": {
         "linters": {
             "*.{js,md,ts}": [
