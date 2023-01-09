@@ -3,8 +3,6 @@ name: PublishNpm
 on:
   workflow_dispatch:
   push:
-    tags:
-    - '*'
 
 jobs:
   build:
