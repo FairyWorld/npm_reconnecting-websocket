@@ -1,5 +1,5 @@
 {
-    "name": "reconnecting-websocket2",
+    "name": "ts-reconnecting-websocket",
     "version": "4.4.1",
     "description": "Reconnecting WebSocket",
     "main": "./dist/reconnecting-websocket-cjs.js",
