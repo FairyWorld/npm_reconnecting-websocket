@@ -1,5 +1,5 @@
 {
-    "name": "reconnecting-websocke2",
+    "name": "reconnecting-websocket2",
     "version": "4.4.1",
     "description": "Reconnecting WebSocket",
     "main": "./dist/reconnecting-websocket-cjs.js",
